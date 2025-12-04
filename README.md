@@ -33,3 +33,6 @@ Now building real web applications. Integrating APIs, creating responsive interf
 
 - **[Project CivilOneStop](https://github.com/Special-Srit/Swjb_CivilOneStop)** - Project to make gov website more accessible
 - **[MiniPBL-3](https://github.com/Special-Srit/Team_Dihydrogen_monoxide_R3)** - Collaborating with many other developers
+
+If you want to learn more about my journey, read this!
+- **[Read More!](https://github.com/Special-Srit/Special-Srit_MoreBio/blob/main/README.md)**
