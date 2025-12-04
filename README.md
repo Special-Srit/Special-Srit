@@ -28,3 +28,8 @@ Now building real web applications. Integrating APIs, creating responsive interf
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## 🔭 Current Projects
+
+- **[Project CivilOneStop](https://github.com/Special-Srit/Swjb_CivilOneStop)** - Project to make gov website more accessible
+- **[MiniPBL-3](https://github.com/Special-Srit/Team_Dihydrogen_monoxide_R3)** - Collaborating with many other developers
