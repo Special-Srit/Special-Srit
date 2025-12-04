@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Special Srit 👋
 
-<!--
-**Special-Srit/Special-Srit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 My Development Journey
 
-Here are some ideas to get you started:
+I believe in learning by building. Here's how I've evolved as a developer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Stage 1: Google Sheets
+Started with the basics - organizing data, creating formulas, and understanding how information flows. Sometimes the simplest tools teach you the most about structure and logic.
+
+### ⚙️ Stage 2: Apps Script & Google Sheets
+Discovered automation and scripting. Learned to make spreadsheets dynamic, automate repetitive tasks, and build custom functions. This was my gateway into actual programming.
+
+### 💻 Stage 3: GitHub API & HTML5 + Bootstrap
+Now building real web applications. Integrating APIs, creating responsive interfaces, and version controlling my work. The jump from scripts to full-stack development.
+
+## 🛠️ Tech Stack
+
+**Current Tools:**
+- HTML5, CSS3, Bootstrap
+- JavaScript
+- Google Apps Script
+- GitHub API
+- Git & GitHub
